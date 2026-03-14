@@ -84,7 +84,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sangeetharahesh1917&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sangeetharajesh1917&show_icons=true&theme=tokyonight"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangeetharajesh1917&layout=compact&theme=tokyonight"/>
 
