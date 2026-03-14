@@ -44,29 +44,32 @@
 
 # 📂 Featured Projects
 
-## 📊 Sales Data Analysis
+## 📊 E-commerce Interactive Sales Dashboard
 ![Dashboard Preview](https://via.placeholder.com/800x400.png?text=Sales+Dashboard)
 
 **Tools:** Python, SQL, Excel  
 
 - Cleaned and analyzed sales datasets
 - Identified revenue trends and KPIs
+- Interactive category selection using a Combo Box
 - Built visual reports for decision making
 
 ---
 
-## 📈 Business Intelligence Dashboard
+## 📈 Tableau Sales Comparison Dashboard
 ![Dashboard Preview](https://via.placeholder.com/800x400.png?text=Power+BI+Dashboard)
 
 **Tools:** Power BI, SQL  
 
 - Interactive dashboards
-- KPI tracking and business metrics
+- Provide interactive region selection using parameters
+- Compare sales performance between two regions
+- Visualize important business metrics through a dashboard
 - Data storytelling through visualization
 
 ---
 
-## 🧹 Data Cleaning & EDA Project
+## 🧹 Marketing Capstone Project
 ![Dashboard Preview](https://via.placeholder.com/800x400.png?text=Python+EDA+Project)
 
 **Tools:** Python (Pandas, Matplotlib)
