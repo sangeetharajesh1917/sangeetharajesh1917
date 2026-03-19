@@ -70,7 +70,7 @@
 ---
 
 ## 🧹 Marketing Capstone Project
-![Dashboard Preview](./Marketing EDA and Dashboarding Capstone.png)
+![Dashboard Preview](https://github.com/sangeetharajesh1917/Marketing-Capstone-Project-/blob/main/Marketing%20EDA%20and%20Dashboarding%20Capstone.png)
 
 **Tools:** Python (Pandas, Matplotlib)
 
