@@ -57,7 +57,7 @@
 ---
 
 ## 📈 Tableau Sales Comparison Dashboard
-![Dashboard Preview](https://via.placeholder.com/800x400.png?text=Power+BI+Dashboard)
+![Dashboard Preview](https://github.com/sangeetharajesh1917/Tableau-Sales-Comparison-Dashboard/blob/main/Sample%20Super%20Store%20Dashboard-Preview.png)
 
 **Tools:** Power BI, SQL  
 
