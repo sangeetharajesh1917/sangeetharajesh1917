@@ -70,7 +70,7 @@
 ---
 
 ## 🧹 Marketing Capstone Project
-![Dashboard Preview](https://via.placeholder.com/800x400.png?text=Python+EDA+Project)
+![Dashboard Preview](Marketing EDA and Dashboarding Capstone.png)
 
 **Tools:** Python (Pandas, Matplotlib)
 
