@@ -45,7 +45,7 @@
 # 📂 Featured Projects
 
 ## 📊 E-commerce Interactive Sales Dashboard
-![Dashboard Preview](https://via.placeholder.com/800x400.png?text=Sales+Dashboard)
+![Dashboard Preview](https://github.com/sangeetharajesh1917/E-commerce-Interactive-Sales-Dashboard-Excel/blob/main/E-Commerce%20Sales%20Dashboard-Preview.png)
 
 **Tools:** Python, SQL, Excel  
 
