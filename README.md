@@ -55,7 +55,6 @@
 - Built visual reports for decision making
 
 ---
-
 ## 📈 Tableau Sales Comparison Dashboard
 ![Dashboard Preview](https://github.com/sangeetharajesh1917/Tableau-Sales-Comparison-Dashboard/blob/main/Sample%20Super%20Store%20Dashboard-Preview.png)
 
