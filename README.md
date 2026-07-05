@@ -47,12 +47,27 @@
 ## 📊 E-commerce Interactive Sales Dashboard
 ![Dashboard Preview](https://github.com/sangeetharajesh1917/E-commerce-Interactive-Sales-Dashboard-Excel/blob/main/E-Commerce%20Sales%20Dashboard-Preview.png)
 
-**Tools:** Python, SQL, Excel  
+**Tools:** Python, SQL, Excel 
 
 - Cleaned and analyzed sales datasets
 - Identified revenue trends and KPIs
 - Interactive category selection using a Combo Box
 - Built visual reports for decision making
+
+---
+## 📊 Transport for London (TfL) Commuter Trends & Congestion Tracker
+https://github.com/sangeetharajesh1917/TFL_Journeys.git
+**Tools:** Python, (pandas, SQLAlchemy),MySQL, Power BI, Power Query, DAX
+
+- Cleaned and transformed TfL journey data.
+- Standardized date and time formats.
+- Filtered and quarantined invalid journey records.
+- Engineered journey duration, cost, and time-based features.
+- Built a rule-based AI congestion classification system.
+- Loaded processed data into MySQL.
+- Performed SQL analysis to identify congestion and commuter trends.
+- Developed an interactive Power BI dashboard with KPIs, maps, slicers, and DAX measures.
+- Implemented a What-If analysis for delay reduction.
 
 ---
 ## 📈 Tableau Sales Comparison Dashboard
