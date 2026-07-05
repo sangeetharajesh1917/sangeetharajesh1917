@@ -56,8 +56,8 @@
 
 ---
 ## 📊 Transport for London (TfL) Commuter Trends & Congestion Tracker
-https://github.com/sangeetharajesh1917/TFL_Journeys/blob/main/Transport%20for%20London%20Power%20BI%20Slide%201.PNG
-https://github.com/sangeetharajesh1917/TFL_Journeys/blob/main/Transport%20for%20London%20Power%20BI%20Slide%202.PNG
+![Dashboard Preview](https://github.com/sangeetharajesh1917/TFL_Journeys/blob/main/Transport%20for%20London%20Power%20BI%20Slide%201.PNG)
+![Dashboard Preview](https://github.com/sangeetharajesh1917/TFL_Journeys/blob/main/Transport%20for%20London%20Power%20BI%20Slide%202.PNG)
 
 **Tools:** Python, (pandas, SQLAlchemy),MySQL, Power BI, Power Query, DAX
 
